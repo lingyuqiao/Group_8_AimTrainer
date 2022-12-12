@@ -6,16 +6,17 @@ Step 1. Download every files in the repository and save them in the same directo
 Step 2. Install the enviroment in the env,yml.
 Step 3. Open and run the AimTrainer.py using python 3.9 IDE.
 
-Game Description:
-The player can choose between EASY and HARD game modes on the Aim Trainer lobby page before the game begins; 
-if the mode is not selected, the default mode setting will be used.
+Game Description (GUI):
+Once the user run the program, it shows game lobby screen includes a start button and difficulty choices. 
+The player can choose between EASY and HARD game modes on the Aim Trainer lobby page before the game begins.
+If the mode is not selected, the default mode (easy) is used.
 
+Once the start button is clicked, the game will proceed to start with a initial 3-second countdown. 
+Users would "shoot" the targets before they disappear to get points. 
 The difficulty of the game will increase based on the player's performance, 
-and there will be a timer in the game to remind the player of their remaining time.
+and there will be a timer and score in the game to remind the player of their remaining time and current score.
 
-When the time expires, the game will stop automatically.
-
-
+When the time expires, the game will stop, shows a "game over" screen and tells the user their final score.
 
 Aim Trainer Author: 
 Xinyu Wang
