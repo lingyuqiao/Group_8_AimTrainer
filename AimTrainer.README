@@ -2,8 +2,15 @@ Name: Aim Trainer:
 Description: This program is a small shooting game that helps playrs aim more accurately in FPS games.
 
 Instruction (How to Run): 
+Method 1:
+Step 1. Install the enviroment in the env.yml.
+Step 2. Download Zip for Github and extract all the files to any location.
+Step 3. Open CMD in Conda, and cd to the directory where zip file is extracted.
+Step 4. Run the program by typing "python AimTrainer.py".
+
+Method 2:
 Step 1. Download every files in the repository and save them in the same directory.
-Step 2. Install the enviroment in the env,yml.
+Step 2. Install the enviroment in the env.yml.
 Step 3. Open and run the AimTrainer.py using python 3.9 IDE.
 
 Game Description (GUI):
