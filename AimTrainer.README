@@ -4,7 +4,7 @@ Description: This program is a small shooting game that helps playrs aim more ac
 Instruction (How to Run): 
 Method 1:
 Step 1. Install the enviroment in the env.yml.
-Step 2. Download Zip for Github and extract all the files to any location.
+Step 2. Download Zip from Github and extract all the files to any location.
 Step 3. Open CMD in Conda, and cd to the directory where zip file is extracted.
 Step 4. Run the program by typing "python AimTrainer.py".
 
